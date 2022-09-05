@@ -4,6 +4,7 @@
 //
 //  Created by 柿沼敏夫 on 2022/09/05.
 // github test0905
+//
 
 import UIKit
 
@@ -13,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+//0905
 
 }
 
