@@ -3,7 +3,7 @@
 //  GithubTest0905
 //
 //  Created by 柿沼敏夫 on 2022/09/05.
-//
+// github test0905
 
 import UIKit
 
